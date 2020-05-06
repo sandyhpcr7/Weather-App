@@ -1,0 +1,1 @@
+# Lets build a weather app using Python and Django
